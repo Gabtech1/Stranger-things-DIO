@@ -237,6 +237,10 @@
         font-size: 1.6rem;
     }
 
+    .dark-theme #btnSubscribe{
+        height: 30px;
+    }
+
     /* footer */
     footer img {
         width: 180px;
